@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#nav img{
+    width:50px;
+    margin-top: 20px;
+}
+.col-md-6 .nav{
+    padding-top: 20px;
+}
+nav{
+    padding-top: 20px;
+   
+}
+.nav-link{
+    color:white;
+  
+   margin: 0 5px;
+}
+.nav-link:hover{
+    background-color: rgb(36, 46, 46);
+}
+
+#pricing .card-body{
+    background-color:#1C2B2D;
+}
+.btn{
+margin-top: 20px;
+background-color:#008000;
+color:rgb(244, 237, 237);
+transition: all 0.3s;
+}
+#contact{
+    position: relative;
+}
+#contact::after{
+    content: "";
+    width: 15%;
+    display: block;
+    position: absolute;
+    border: 2px solid rgb(12, 189, 109);
+    left:230px
+}
+.btn:hover{
+transform: translateX(-5px);
+
+
+}
+header{
+
+    background-color: #1C2B2D;
+
+}
+
+#head{
+    
+    width: 100%;
+    background-color: #1C2B2D;
+}
+#head h1{
+    color: white;
+    margin-top: 30px;
+    font-family: 'Raleway', sans-serif;
+}
+#head h5{
+    color:white;
+}
+#review{
+    padding-top: 50px;
+    background-color: #65C18C;
+   
+}
+#Customer-trust{
+    padding-top: 50px;
+    background-color: #1C2B2D;
+}
+#about-me img{
+    width: 60%;
+}
+#about-me {
+    padding-top: 50px;
+    background-color: #1C2B2D;
+}
+
+#about-me h4{
+    color:white;
+}
+
+
+
+
+
+#choose-us img{
+    width: 60px;
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 10px;
+    box-shadow: 2px 4px 4px 0px rgb(7, 183, 101);
+  background-color: aliceblue;
+  
+    
+}
+#choose-us{
+    padding-top: 50px;
+    padding-bottom: 30px;
+    background-color: #1C2B2D;
+}
+
+#choose-us h4,p,h1{
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+
+
+#choose-us h5{
+    text-align: justify;
+}
+#pricing{
+    padding-top: 50px;
+    background-color: #1C2B2D;
+}
+#massage{
+    padding-top: 50px;
+    background-color: #1C2B2D;
+
+}
+#testimonial{
+
+    padding-top: 50px;
+    background-color: #1C2B2D;
+
+
+}
+#testimonial .card{
+    background-color: #1C2B2D;
+    border: none;
+}
+#main-footer{
+
+    padding-top: 50px;
+    background-color: #1C2B2D;
+    padding-bottom: 40px;
+
+
+}
+#main-footer ul{
+    list-style-type: none;
+    color:white;
+}
+.title{
+    color:#008000
+}
+#massage h3{
+    color:white;
+}
+#massage a{
+    text-decoration: none;
+    color: white;
+}
+label{
+    color:white;
+}
+#btn{
+    width:120px;
+    height: 40px;
+    color:white;
+}
